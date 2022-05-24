@@ -1,3 +1,11 @@
+Unzip the following zip files in this directory:
+https://drive.google.com/file/d/1lGVy3CS3sEO5qJ_Zd3IeGJpH_-MUTAwl/view?usp=sharing
+https://drive.google.com/file/d/1aY4d_COYJjtguGvekX8t-E1wtRRr8ltr/view?usp=sharing
+
+
+Afterwards, follow the below instructions included with vid2vid. We replaced cityscapes dataset with our dataset. Therefore, the cityscapes folder within the datasets folder contains our data. Checkpoints includes the weights necessary to utilize our model. Datasets includes the dataset used to train our model.
+
+
 <img src='imgs/teaser.gif' align="right" width=360>
 
 <br><br><br><br>

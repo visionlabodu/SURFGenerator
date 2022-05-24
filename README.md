@@ -1,0 +1,1 @@
+Follow the instructions in the masker or painter folders on how to use them. This will be updated with more instructions later on.
