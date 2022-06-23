@@ -336,7 +336,7 @@ class preprocess:
 np.random.seed(seed = 1234)
 tf.random.set_seed(1234)
 
-#this is something like getting these sequences in the right order
+#this is getting these sequences in the right order
 levels = np.empty((10, 3, 8, 300), dtype='U50')
 
 images = np.empty((10, 3, 8, 300), dtype='U50')
