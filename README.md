@@ -1,4 +1,6 @@
-# Make sure to cite our paper SURFGenerator: Generative Adversarial Network Modeling for Synthetic Flooding Video Generation
+# README
+## Make sure to cite our paper - 
+### S. Lamczyk, K. Ampofo, B. Salahshour, M. Cetin, and K. Iftekharuddin, “SURFGenerator: Generative Adversarial Network Modeling for Synthetic Flooding Video Generation” IJCNN at IEEE WCCI 2022, 2022
 
 
 ## Masker
